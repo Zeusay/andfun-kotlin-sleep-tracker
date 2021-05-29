@@ -1,7 +1,5 @@
 # Room - SleepQualityTracker app
 
-## Hello Poogo!
-
 This is the toy app for Lesson 6 of the [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/???).
 
 ## SleepQualityTracker
